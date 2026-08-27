@@ -490,7 +490,7 @@
     "useCommandCooldown": true,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "buy",
-    "CommandDescription": "Приобрести предметы или пешек в магазине.",
+    "CommandDescription": "Приобрести предметы или пешки в магазине.",
     "ExcludeFromPricelist": false,
     "AllowedRaidTypes": [],
     "AllowedRaidStrategies": [],

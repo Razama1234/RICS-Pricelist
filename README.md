@@ -42,7 +42,7 @@ A GitHub Pages site for displaying RICS mod purchase lists.
   - `CommandSettings.json` ← chat command settings from RICS
   - `ActiveMods.json` ← automatically created by RICS on every game start (contains active mods + Steam IDs)
 
-## Updating Your Fork
+## Обновление вашего форка
 
 ### To update your fork with new changes:
 

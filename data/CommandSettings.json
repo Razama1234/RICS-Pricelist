@@ -10,7 +10,7 @@
     "useCommandCooldown": false,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "give coins",
-    "CommandDescription": "Give coins to a viewer(s)",
+    "CommandDescription": "Выдать монеты зрителю(ям)",
     "AllowedRaidTypes": [],
     "AllowedRaidStrategies": [],
     "DefaultLootBoxSize": 1,

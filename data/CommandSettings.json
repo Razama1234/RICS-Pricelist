@@ -1410,7 +1410,7 @@
     "useCommandCooldown": true,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "convert ideology",
-    "CommandDescription": "Попробуйте обратить другого колониста в свою идеологию (требуется дополнение "Идеология", стоимость: 30 монет, требуется 15 кармы).",
+    "CommandDescription": "Попытка обратить другого колониста в свою идеологию (требуется дополнение "Идеология", стоимость: 30 монет, требуется 15 кармы).",
     "ExcludeFromPricelist": false,
     "AllowedRaidTypes": [],
     "AllowedRaidStrategies": [],

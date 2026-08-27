@@ -86,7 +86,7 @@
     "SupportsCost": false,
     "PermissionLevel": "moderator",
     "RequiresConfirmation": false,
-    "CommandAlias": "!Fixesallpawnsassignments,
+    "CommandAlias": "",
     "useCommandCooldown": true,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "fix all pawns",
